@@ -5,7 +5,7 @@ import freenet.support.TimeUtil;
 
 /**
  * Tag tracking an offer reply.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class OfferReplyTag extends UIDTag {
 

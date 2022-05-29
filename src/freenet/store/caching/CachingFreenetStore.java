@@ -22,8 +22,7 @@ import freenet.support.io.NativeThread;
 /**
  * CachingFreenetStore
  * 
- * @author Simon Vocella <voxsim@gmail.com>
- * 
+ * @author <a href="mailto:voxsim@gmail.com">Simon Vocella</a>
  */
 public class CachingFreenetStore<T extends StorableBlock> extends ProxyFreenetStore<T> {
     private static volatile boolean logMINOR;

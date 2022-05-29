@@ -6,7 +6,7 @@ import freenet.client.async.ClientContext;
 /**
  * Interface for class responsible for doing the actual sending of requests.
  * Strictly non-persistent.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public interface SendableRequestSender {
 	

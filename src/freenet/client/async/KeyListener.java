@@ -9,7 +9,7 @@ import freenet.node.SendableGet;
  * time for non-persistent requests), to monitor the stream of successfully
  * fetched keys. If a key appears interesting, we schedule a job on the database
  * thread to double-check and process the data if we still want it.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  * 
  * saltedKey is the routing key from the key, salted globally (concat a global
  * salt value and then SHA) in order to save some cycles. Implementations that

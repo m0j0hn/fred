@@ -69,7 +69,7 @@ import freenet.support.io.FileUtil;
 /**
  * CachingFreenetStoreTest Test for CachingFreenetStore
  *
- * @author Simon Vocella <voxsim@gmail.com>
+ * @author <a href="mailto:voxsim@gmail.com">Simon Vocella</a>
  *
  *         FIXME lots of repeated code, factor out.
  */

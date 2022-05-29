@@ -26,7 +26,7 @@ import freenet.support.io.TempBucketFactory;
  * - Strictly enforced time limit.
  * - Blocks are encrypted, and kept in temp files.
  * 
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class SlashdotStore<T extends StorableBlock> implements FreenetStore<T> {
 

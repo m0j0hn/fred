@@ -12,8 +12,7 @@ import freenet.node.FastRunnable;
  * If deploying this to replace PacketSender, be careful to handle priority changes properly.
  * Hopefully that can be achieved simply by creating at max priority during startup.
  * 
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
- *
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class TrivialTicker implements Ticker {
 

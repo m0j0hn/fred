@@ -9,7 +9,7 @@ import freenet.support.TimeUtil;
 /**
  * Tag for a request.
  * 
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class RequestTag extends UIDTag {
 	

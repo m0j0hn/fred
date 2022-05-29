@@ -10,9 +10,8 @@ import freenet.support.Ticker;
  * after 5 minutes. One major objective here is we should not do disk I/O inside a lock, all methods 
  * should be non-blocking, even if it means the caller needs to do a blocking disk write.
  * 
- * @author Simon Vocella <voxsim@gmail.com>
- * 
-*/
+ * @author <a href="mailto:voxsim@gmail.com">Simon Vocella</a>
+ */
 public class CachingFreenetStoreTracker {
     private static volatile boolean logMINOR;
     

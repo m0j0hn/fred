@@ -13,8 +13,7 @@ import freenet.node.SendableRequestSender;
 import freenet.support.Logger;
 
 /**
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
- *
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class ChosenBlockImpl extends ChosenBlock {
     

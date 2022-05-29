@@ -32,8 +32,7 @@ import freenet.support.io.FileUtil.OperatingSystem;
 
 /**
  * The security levels page.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
- *
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class SecurityLevelsToadlet extends Toadlet {
 

@@ -4,7 +4,7 @@ import java.io.IOException;
 
 /**
  * Interface to show that we can create a KeyListener callback.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public interface HasKeyListener {
 	

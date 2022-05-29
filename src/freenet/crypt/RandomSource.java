@@ -8,7 +8,7 @@ import java.util.Random;
 /**
  * Interface for any random-number source in Freenet
  *
- * @author Scott G. Miller <scgmille@indiana.edu>
+ * @author <a href="mailto:scgmille@indiana.edu">Scott G. Miller</a>
  */
 @SuppressWarnings("serial")
 public abstract class RandomSource extends Random {

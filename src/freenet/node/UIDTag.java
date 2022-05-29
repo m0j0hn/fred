@@ -13,7 +13,7 @@ import freenet.support.Logger.LogLevel;
  * Base class for tags representing a running request. These store enough information
  * to detect whether they are finished; if they are still in the list, this normally
  * represents a bug.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public abstract class UIDTag {
 	

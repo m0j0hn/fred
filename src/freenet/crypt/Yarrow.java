@@ -52,7 +52,7 @@ import freenet.support.io.Closer;
  * global multiplier and program- supplied guesses, as suggested.</li>
  * </ul>
  *
- * @author Scott G. Miller <scgmille@indiana.edu>
+ * @author <a href="mailto:scgmille@indiana.edu">Scott G. Miller</a>'
  */
 public class Yarrow extends RandomSource implements PersistentRandomSource {
 

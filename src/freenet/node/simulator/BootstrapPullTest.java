@@ -30,7 +30,7 @@ import freenet.support.io.LineReadingInputStream;
 /**
  * Insert a random block of data to an established node via FCP, then
  * bootstrap a newbie node and pull it from that.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class BootstrapPullTest {
 

@@ -11,8 +11,8 @@ import java.net.URISyntaxException;
  * Note that it DOES NOT change the method to "GET"! So you can redirect to another toadlet
  * and expect the other toadlet to deal with a POST. However if you want to dump the contents
  * of the POST, you need to actually write a redirect.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
- * @author xor <xor@freenetproject.org>
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
+ * @author <a href="mailto:xor@freenetproject.org">xor</a>
  */
 public class RedirectException extends Exception {
 	private static final long serialVersionUID = -1;

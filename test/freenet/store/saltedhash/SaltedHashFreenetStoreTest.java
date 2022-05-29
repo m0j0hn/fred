@@ -51,8 +51,7 @@ import freenet.support.io.FileUtil;
  * SaltedHashFreenetStoreTest
  * Test for SaltedHashFreenetStore
  *
- * @author Simon Vocella <voxsim@gmail.com>
- *
+ * @author <a href="mailto:voxsim@gmail.com">Simon Vocella</a>
  */
 public class SaltedHashFreenetStoreTest extends TestCase {
 

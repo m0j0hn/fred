@@ -17,7 +17,7 @@ import freenet.support.MutableBoolean;
 /**
  * Queue of messages to send to a node. Ordered first by priority then by time.
  * Will soon be round-robin between different transfers/UIDs/clients too.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class PeerMessageQueue {
 

@@ -1667,7 +1667,7 @@ public class USKFetcher implements ClientGetState, USKCallback, HasKeyListener, 
 	 *
 	 * LOCKING: Take the lock on this class last and always pass in lookup values. Do not lookup values
 	 * in USKManager inside this class's lock.
-	 * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+	 * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
 	 */
 	private class USKWatchingKeys {
 

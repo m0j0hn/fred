@@ -5,7 +5,7 @@ package freenet.node;
  * Typically for requests, these are just an integer indicating which key
  * to fetch. But for inserts, these will often include the actual data to
  * insert, or some means of getting it without access to the database.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public interface SendableRequestItem {
 

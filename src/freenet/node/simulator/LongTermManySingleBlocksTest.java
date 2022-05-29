@@ -42,7 +42,7 @@ import freenet.support.io.FileUtil;
 /** 
  * Insert 32x single blocks. Pull them individually, with 0 retries, after 2^n-1 
  * days, for n in 0...8.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class LongTermManySingleBlocksTest extends LongTermTest {
 	

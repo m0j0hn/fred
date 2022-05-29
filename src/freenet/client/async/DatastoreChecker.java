@@ -23,7 +23,7 @@ import freenet.support.Logger.LogLevel;
 import freenet.support.io.NativeThread;
 
 /**
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class DatastoreChecker implements PrioRunnable {
 

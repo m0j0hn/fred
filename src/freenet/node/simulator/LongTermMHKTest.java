@@ -38,7 +38,7 @@ import freenet.support.io.FileUtil;
  * others 1 time each. Pulls them all after 1, 3, 7, 15, 31 etc days and computes 
  * success rates for the 1 versus the 3 combined. I am convinced the 3 combined will
  * be much more successful, but evanbd isn't.
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  *
  */
 public class LongTermMHKTest extends LongTermTest {

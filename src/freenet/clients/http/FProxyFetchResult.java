@@ -9,7 +9,7 @@ import freenet.support.api.Bucket;
  * it might actually be finished. Note that close() must be called when fproxy
  * has finished with the data (and is the only method that actually calls back 
  * to the freenet.clients.http.FProxyFetchInProgress ).
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class FProxyFetchResult {
 

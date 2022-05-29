@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * A RunningAverage that tracks both the median and mean of a series of values.
  * WARNING: Uses memory and proportional to the number of reports! Only for debugging!
  * (Also uses CPU time O(N log N) with the number of reports in currentValue()).
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public final class MedianMeanRunningAverage implements RunningAverage, Cloneable {
 	private static final long serialVersionUID = 1L;

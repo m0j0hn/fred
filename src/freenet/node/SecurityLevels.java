@@ -25,7 +25,7 @@ import freenet.support.api.StringCallback;
  * are explanations of every option for each setting. They have their own 
  * sub-page on the config toadlet. And the security levels are displayed on the
  * homepage as a useralert (instead of the opennet warning).
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  */
 public class SecurityLevels {
 	

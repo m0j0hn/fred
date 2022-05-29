@@ -31,7 +31,7 @@ import java.net.URI;
 /** Comprehensive CSS2.1 filter. The old jflex-based filter was very far
  * from comprehensive.
  * @author kurmiashish
- * @author Matthew Toseland <toad@amphibian.dyndns.org> (0xE43DA450)
+ * @author <a href="mailto:toad@amphibian.dyndns.org">Matthew Toseland (0xE43DA450)</a>
  *
  * FIXME: Rewrite to parse properly. This works but is rather spaghettified.
  * JFlex on its own obviously won't work, but JFlex plus a proper grammar
